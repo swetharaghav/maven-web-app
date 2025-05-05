@@ -4,6 +4,8 @@
 
 <h1> code Changed  </h1>
 
+<h1> when code changed github hook scm automatically build job in Jenkins </h1>
+
 <h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
