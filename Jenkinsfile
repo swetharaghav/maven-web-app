@@ -1,9 +1,7 @@
 pipeline {  
-    agent {
-        label 'Ansible-Node'
-    }    
-    tools{
-        maven "Maven-3.9.6"
+    agent 
+        tools{
+        maven "maven-3.9.9"
     }
     stages {
         stage('Clone') {
