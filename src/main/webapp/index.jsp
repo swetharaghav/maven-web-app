@@ -6,7 +6,7 @@
 
 <h1> when code changed github hook Pollscm  automatically build job in Jenkins </h1>
 
-<h1> using cron job we can set time to update  </h1>
+<h1> using cron job we can build job auto,atically  </h1>
 
 <h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
 
